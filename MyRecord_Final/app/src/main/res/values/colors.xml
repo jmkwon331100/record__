@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA07A</color>
+    <color name="colorPrimaryDark">#263048</color>
+    <color name="colorAccent">#E85C61</color>
+    <color name="colorDeepYellow">#FAB230</color>
+    <color name="coral">#FF7F50</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="almond">#FFEBCD</color>
+    <color name="lightsalmon">#FFA07A </color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="colorPrimaryText">#3D3D3D</color>
+</resources>
